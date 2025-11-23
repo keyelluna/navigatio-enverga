@@ -1,4 +1,4 @@
-import resourceCenter from '../assets/images/Resource_Center.JPG'
+import resourceCenter from '../assets/images/Resource_Center.jpg'
 import speechLab from '../assets/images/Speech_Laboratory.jpg'
 import CBAOffice from '../assets/images/CBA_office.png'
 import collegeLibrary from '../assets/images/collegeLibrary.png'
